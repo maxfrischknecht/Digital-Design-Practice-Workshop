@@ -9,7 +9,7 @@ This is the workshop's open-source repository. Here you will find the curriculum
 # Course Aims
 
 **1**  
-You learn how to conceptualize, design and develop your web presence. Depending on your interest and individual technological skill level I propose 3 different options (→ [Developing Your Online Presence](#developing-your-online-presence)). This means, that we will split into different groups to learn the individual tools. However, some basics will stay the same and we will learn them all together. This includes a basic web development workflow:
+You learn how to conceptualize, design and develop your web presence. Depending on your interest and individual technological skill level 3 different options are proposed (→ [Developing Your Online Presence](#developing-your-online-presence)). This means, that we will split into different groups to learn the individual tools. However, some basics will stay the same and we will learn them all together. This includes a basic web development workflow:
 
 - Design: How to use Sketch or something similar to layout a contemporary, *responsive* website
 - Development: How to simulate a webserver on your laptop and use code editors
