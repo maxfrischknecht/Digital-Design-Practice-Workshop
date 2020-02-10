@@ -6,26 +6,24 @@ This is the workshop's open-source repository. Here you will find the curriculum
 
 ---
 
-# Course Aim
+# Course Aims
 
-The course has two aims. Firstly, you learn how to conceptualize, design and develop your web presence. Depending on your interest and individual technological skill level I propose 3 different options (→ [Developing Your Online Presence](#developing-your-online-presence)):
+**1**  
+You learn how to conceptualize, design and develop your web presence. Depending on your interest and individual technological skill level I propose 3 different options (→ [Developing Your Online Presence](#developing-your-online-presence)). This means, that we will split into different groups to learn the individual tools. However, some basics will stay the same and we will learn them all together. This includes a basic web development workflow:
 
-- Option 1: Minimal But Experimental
-- Option 2: Ugh! I hate To Code 
-- Option 3: The full deal 
+- Design: How to use Sketch or something similar to layout a contemporary, *responsive* website
+- Development: How to simulate a webserver on your laptop and use code editors
+- Production: How to setup domain, email and hosting, how to upload and test your site.
 
-This means, that we will split into different groups to learn the individual tools. However, some basics will stay the same and we will learn them all together. This includes a basic web development workflow:
-
-- Design: How to use [Sketch](https://www.sketch.com/) or something similar to layout a responsive website
-- Development: How to use simulate a webserver ([MAMP](https://www.mamp.info/en/)) on your laptop and use code editors ([Visual Studio Code](https://code.visualstudio.com/), [Sublime](https://www.sublimetext.com/))
-- Production: How to setup a [domain](https://en.wikipedia.org/wiki/Domain_name), email and hosting, how to upload your site ([FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol)) and how to test it.
-
-The second aim of the course is to learn about digitization in a wider context (→ [Theory and Contextual Knowledge](#theory-and-contextual-knowledge)). This includes looking at how digitization shapes the designer's profession but also how it is connected to topics like ecology, economy, privacy, or ideology. The latest incidents like the climate demonstrations show how important a critical young generation is for our world. 
+**2**  
+Your learn about digitization in a wider context (→ [Theory and Contextual Knowledge](#theory-and-contextual-knowledge)). This includes looking at how digitization shapes the designer's profession but also how it is connected to topics like ecology, economy, privacy, or ideology. The latest incidents like the climate demonstrations show how important a critical young generation is for our world and this also includes critical thinking towards digitization. 
 
 
 --- 
 
 # Developing Your Online Presence
+
+There are 3 options porposed to develop your own digital presence. All options will be introduced on the first day and you can pick one.
 
 ### Option 1: Minimal But Experimental
  
@@ -67,7 +65,14 @@ Check out the [documentation](https://laytheme.com/documentation.html) and the [
 
 ### Option 3: The full deal 
 
-You want to know the whole truth and nothing but the truth? You came to the right place! You will learn how to use [Kirby CMS](https://getkirby.com/), a clean slick content management system. You will develop a state of the art website from scratch. Everything is possible, basically, the only limit is your willingness to learn and overcome obstacles. Once you handle this challenge you are on a great way to learn other content management systems and at some point take on developer jobs. 
+You want to know the whole truth and nothing but the truth? You came to the right place! You will learn how to use [Kirby CMS](https://getkirby.com/), a clean slick content management system. Kirby has is made in a way that the backend is customized for your content and the system doesn't interfere with your design. You will develop a state of the art website from scratch. Everything is possible, basically, the only limit is your willingness to learn and overcome obstacles. Once you handle this challenge you are on a great way to learn other content management systems and at some point take on developer jobs. Some websites made with Kirby:
+
+- [https://mafiles.maxfrischknecht.ch/](https://mafiles.maxfrischknecht.ch/)
+- [https://debutdebut.com/](https://debutdebut.com/) (in development)
+- [https://after-work-studio.com/](https://after-work-studio.com/)
+- [https://chevalvert.fr/fr](https://chevalvert.fr/fr)
+- [https://radio.garden/](https://radio.garden/)
+- [https://demofestival.com/](https://demofestival.com/)
 
 **Problems?**  
 Check out the [documentation](https://getkirby.com/docs/guide) and the [support forum](https://forum.getkirby.com/).
