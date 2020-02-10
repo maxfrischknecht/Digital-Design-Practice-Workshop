@@ -8,15 +8,15 @@ This is the workshop's open-source repository. Here you will find the curriculum
 
 # Course Aims
 
-**1**  
-You learn how to conceptualize, design and develop your web presence. Depending on your interest and individual technological skill level 3 different options are proposed (→ [Developing Your Online Presence](#developing-your-online-presence)). This means, that we will split into different groups to learn the individual tools. However, some basics will stay the same and we will learn them all together. This includes a basic web development workflow:
+**[1 Developing Your Online Presence](#developing-your-online-presence)**  
+You learn how to conceptualize, design and develop your web presence. Depending on your interest and individual technological skill level 3 different options are proposed. This means, that we will split into different groups to learn the individual tools. However, some basics will stay the same and we will learn them all together. This includes a basic web development workflow:
 
 - Design: How to use Sketch or something similar to layout a contemporary, *responsive* website
 - Development: How to simulate a webserver on your laptop and use code editors
 - Production: How to setup domain, email and hosting, how to upload and test your site.
 
-**2**  
-Your learn about digitization in a wider context (→ [Theory and Contextual Knowledge](#theory-and-contextual-knowledge)). This includes looking at how digitization shapes the designer's profession but also how it is connected to topics like ecology, economy, privacy, or ideology. The latest incidents like the climate demonstrations show how important a critical young generation is for our world and this also includes critical thinking towards digitization. 
+**[2 Theory and Contextual Knowledge](#theory-and-contextual-knowledge)**  
+Your learn about digitization in a wider context. This includes looking at how digitization shapes the designer's profession but also how it is connected to topics like ecology, economy, privacy, or ideology. The latest incidents like the climate demonstrations show how important a critical young generation is for our world and this also includes critical thinking towards digitization. 
 
 
 --- 
