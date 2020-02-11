@@ -137,7 +137,7 @@ The time is short and you will have to wrap your head around a lot of new stuff 
 
 Take a look at the proposed options two develop your website!
 
-### Option 1: Ugh! I hate To Code  
+### Option 1: Ugh! I Hate To Code  
 
 Ok, you don't like to mess around with code but still need a proper portfolio website. That's fine! This is your option then. You will use [Wordpress.org](https://wordpress.org/), a free CMS, and [Laytheme](https://laytheme.com/) for styling the website (my recommendation, feel free to use another theme). The theme is developed to make great portfolios. However, it's an out of the box solution, therefore you have to work with the limitations that the theme brings (which can be a nice challenge after all!). Here are some websites that use lay theme: 
 
@@ -150,7 +150,7 @@ Ok, you don't like to mess around with code but still need a proper portfolio we
 - [http://raoulgottschling.de/](http://raoulgottschling.de/)
 - [https://maxwinter.studio/](https://maxwinter.studio/)
 
-### Option 2: The full deal 
+### Option 2: The Full Deal 
 
 You want to know the whole truth and nothing but the truth? You came to the right place! You will develop a state of the art website from scratch. You will learn how to use [Kirby CMS](https://getkirby.com/), a clean slick content management system. Kirby is made in a way that the backend is customized for your content and the system doesn't interfere with your design. Everything is possible, basically, the only limit is your willingness to learn and overcome obstacles. Once you handle this challenge you are on a great way to learn other content management systems and at some point take on developer jobs. Some websites made with Kirby:
 
@@ -186,9 +186,9 @@ You want to know the whole truth and nothing but the truth? You came to the righ
 - [Mamp Documentation](https://documentation.mamp.info/en/MAMP-Mac/)
 - [Wordpress Documentation](https://codex.wordpress.org/)
 - [Laytheme Documentation](https://laytheme.com/documentation.html)
-- [Laytheme Support Forum](http://laythemeforum.com:4567/).
+- [Laytheme Support Forum](http://laythemeforum.com:4567/)
 - [Kirby Documentation](https://getkirby.com/docs/guide)
-- [Kirby Support Forum](https://forum.getkirby.com/).
+- [Kirby Support Forum](https://forum.getkirby.com/)
 - [Bootstrap Documentation](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 - [W3 School](https://www.w3schools.com/): HTML, CSS and Javascript Snippets
 - [Stackoverflow](https://stackoverflow.com/): The main forum for tech related problems
