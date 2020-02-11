@@ -2,7 +2,7 @@
 
 Digital Design Practice, Workshop, Visual Communication Institute, The Basel School of Design HGK FHNW, 18–28 February 2020.
 
-This is the workshop's open-source repository. Here you will find the curriculum, helpful code snippets, and resources.
+This is the workshop's open-source repository. Here you will find the curriculum, helpful code snippets, and resources. The course will be in German, this repository in English.
 
 ---
 
@@ -20,6 +20,60 @@ Your learn about digitization in a wider context. This includes looking at how d
 
 
 --- 
+# Timetable (in development)
+
+### Thuesday, 18.02.20
+
+_Morning, 08:30 – 12:00_  
+
+- Introduction to the workshop program and aims
+- Description of the different options to develop your online presence.
+
+_Afternoon, 13:00 – 16:30_
+
+- Basic web development workflow I: Design
+- Download and install Sketch
+- Short introduction to the Sketch template
+- Individual work on website
+
+### Wednesday, 19.02.20
+
+_Morning, 08:30 – 12:00_
+
+- Theory Input 1 (maybe)
+- Individual work on website
+- Individual coaching and decided which option pursued
+
+_Afternoon, 13:00 – 16:30_
+
+- Basic web development workflow II
+- Install a web server locally for development (1h)
+- Individual work on website
+- Short meetings in the different option groups (1-3) to discuss the next steps
+
+### Thursday, 20.02.20
+
+_Morning, 08:30 – 12:00_
+
+- Individual group input 1 (Minimal But Experimental), 90 min
+- Individual group input 2 (Option 2: Ugh! I hate To Code), 90 min
+- Individual work on website for other groups
+
+_Afternoon, 13:00 – 16:30_
+
+- Individual group input 3 (The full deal), 90 min
+- Individual work on website
+
+### Friday, 21.02.20
+
+_Morning & Afternoon, 08:30 – 16:30_
+
+- Individual work on website
+- Individual coaching
+
+
+
+---
 
 # Developing Your Online Presence
 
