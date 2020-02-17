@@ -65,8 +65,8 @@ _08:30 – 12:00 Input Workflow II: Local Development_
 
 _13:00 – 16:30, Input Option I: Wordpress + Laytheme_
 
-- Download [Wordpress](https://wordpress.org/)
-- Create a [MySQL](https://en.wikipedia.org/wiki/MySQL) Database with Mamp
+- Download [Wordpress](https://wordpress.org/download/)
+- Create a [MySQL](https://en.wikipedia.org/wiki/MySQL) Database with [Mamp](http://localhost:8888/MAMP/) (under Tools => phpMyAdmin, click «new»)
 - Install Wordpress
 - Install [Laytheme](https://laytheme.com/)
 - Introduction to Wordpress and Laytheme

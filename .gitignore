@@ -7,6 +7,9 @@
 *.txt
 notes.md
 
+# Laytheme / Wordpress Material
+Wordpress-Material
+
 # User-specific files
 *.rsuser
 *.suo
