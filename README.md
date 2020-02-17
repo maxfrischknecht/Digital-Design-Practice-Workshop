@@ -1,4 +1,4 @@
-# Digital Design Practice (in development)
+# Digital Design Practice
 
 Digital Design Practice, Workshop, Visual Communication Institute, The Basel School of Design HGK FHNW, 18–28 February 2020.
 
@@ -34,7 +34,7 @@ Your learn about digitization in a wider context. This includes looking at how d
 
 ## Week 1
 
-### Thuesday, 18.02.20
+### Tuesday, 18.02.20
 
 _08:30 – 12:00, Introduction_  
 
@@ -45,13 +45,13 @@ _13:00 – 16:30, Input Workflow I: Design_
 
 - Download and install of [Sketch](https://www.sketch.com/)
 - Introduction to Sketch and the provided template
-- Rest of afternoon individual work on website (concept and design) 
+- Rest of afternoon individual work on website (concept, content and design) 
 
 ### Wednesday, 19.02.20
 
 _08:30 – 16:30, Individual Work and Coaching_
 
-- Individual work on website (concept and design) 
+- Individual work on website (concept, content and design) 
 - Individual coaching as needed (afternoon)
 - Each student chooses one website development option 
 
@@ -60,7 +60,7 @@ _08:30 – 16:30, Individual Work and Coaching_
 _08:30 – 12:00 Input Workflow II: Local Development_
 
 - Install a web server ([Mamp](https://www.mamp.info/en/)) locally for development
-- Install a code editor
+- Install a code editor (personally, I prever [Visual Studio Code](https://code.visualstudio.com/), but [Sublime](https://www.sublimetext.com/3) is also a good alternative)
 - Quick refresh on [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 _13:00 – 16:30, Input Option I: Wordpress + Laytheme_
@@ -90,7 +90,7 @@ _13:00 – 16:30, Input Option II: Bootstrap Framework_
 
 ## Week 2
 
-### Thuesday, 25.02.20
+### Tuesday, 25.02.20
 
 _08:30 – 16:30, Individual Work and Coaching_
 
@@ -157,6 +157,7 @@ You want to know the whole truth and nothing but the truth? You came to the righ
 - [https://mafiles.maxfrischknecht.ch/](https://mafiles.maxfrischknecht.ch/)
 - [https://debutdebut.com/](https://debutdebut.com/) (in development)
 - [https://after-work-studio.com/](https://after-work-studio.com/)
+- [http://mdesbasel.ch/](http://mdesbasel.ch/)
 - [https://chevalvert.fr/fr](https://chevalvert.fr/fr)
 - [https://radio.garden/](https://radio.garden/)
 - [https://demofestival.com/](https://demofestival.com/)
