@@ -229,13 +229,33 @@ _Browsers_
 
 - [https://www.mozilla.org/en-US/](https://www.mozilla.org/en-US/)
 - [https://www.torproject.org/](https://www.torproject.org/)
+- [https://brave.com/](https://brave.com/)
+
+_Browser Plugins / Add-ons_
+
+- [https://www.eff.org/privacybadger](https://www.eff.org/privacybadger)
+- [Facebook Container for Firefox](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
+
+_Search Engines_
+
+- [https://duckduckgo.com/](https://duckduckgo.com/)
+- [https://www.startpage.com/](https://www.startpage.com/)
 
 _Messengers_
 
 - [https://www.signal.org/](https://www.signal.org/)
+- [https://threema.ch/en](https://threema.ch/en)
 - [https://telegram.org/](https://telegram.org/)
+
+_VPNs_
+
+- [https://nordvpn.com/](https://nordvpn.com/)
+- [https://www.privateinternetaccess.com/](https://www.privateinternetaccess.com/)
 
 _Further Links_
 
+- [https://www.digitale-gesellschaft.ch/ratgeber/](https://www.digitale-gesellschaft.ch/ratgeber/)
 - [https://www.cryptoparty.in/](https://www.cryptoparty.in/)
+- [https://netzpolitik.org/](https://netzpolitik.org/)
+- [https://re-publica.com/de](https://re-publica.com/de)
 
