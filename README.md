@@ -18,14 +18,14 @@ This is the workshop's open-source repository. Here you will find the curriculum
 # Course Aims
 
 **Developing Your Website**  
-You learn how to conceptualize, design and develop your web presence. Depending on your interest and individual technological skill level you can choose one of two options to develop your own website. This means, that we will split into two groups during the course to learn the individual tools necessary. However, some basics will stay the same and we will learn them all together. This includes a basic web development workflow:
+You learn how to conceptualize, design and develop your web presence. Depending on your interest and individual technological skill level you can choose one of two options to develop your website. This means, that we will split into two groups during the course to learn the individual tools necessary. However, some basics will stay the same and we will learn them all together. This includes a basic web development workflow:
 
 - Design: How to use Sketch or something similar to layout a contemporary, *responsive* website
 - Development: How to simulate a webserver on your laptop and use code editors
 - Production: How to setup domain and hosting, how to upload and test your site.
 
 **Theory and Contextual Knowledge**  
-Your learn about digitization in a wider context. This includes looking at how digitization shapes the designer's profession but also how it is connected to topics like ecology, economy, privacy, or ideology. The latest incidents like the climate demonstrations show how important a critical generation is for our world. And I belive this also includes critical thinking towards digitization. 
+You learn about digitization in a wider context. This includes looking at how digitization shapes the designer's profession but also how it is connected to topics like ecology, economy, privacy, or ideology. The latest incidents like the climate demonstrations show how important a critical generation is for our world. And I believe this also includes critical thinking towards digitization. 
 
 
 --- 
@@ -51,7 +51,7 @@ _13:00 – 16:30, Input Workflow I: Design_
 
 _08:30 – 16:30, Individual Work and Coaching_
 
-- Individual work on website (concept, content and design) 
+- Individual work on the website (concept, content, and design) 
 - Individual coaching as needed (afternoon)
 - Each student chooses one website development option 
 
@@ -60,7 +60,7 @@ _08:30 – 16:30, Individual Work and Coaching_
 _08:30 – 12:00 Input Workflow II: Local Development_
 
 - Install a web server ([Mamp](https://www.mamp.info/en/)) locally for development
-- Install a code editor (personally, I prever [Visual Studio Code](https://code.visualstudio.com/), but [Sublime](https://www.sublimetext.com/3) is also a good alternative)
+- Install a code editor (I prefer [Visual Studio Code](https://code.visualstudio.com/), but [Sublime](https://www.sublimetext.com/3) is also a good alternative)
 - Quick refresh on [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 _13:00 – 16:30, Input Option I: Wordpress + Laytheme_
@@ -131,7 +131,7 @@ _13:00 – 16:30, Presentation of the Projects_
 
 # Developing Your Website
 
-There are 2 options porposed to develop your own digital presence. Both options will be shortly introduced on the first day. The goal is to decide for one option till Wednesday, 19.02.20.
+There are 2 options proposed to develop your digital presence. Both options will be shortly introduced on the first day. The goal is to decide on one option till Wednesday, 19.02.20.
 
 The time is short and you will have to wrap your head around a lot of new stuff during the course. Therefore, the idea is to give you a great start and that you can finish your website on your own after the course. Nevertheless, it would be great if each one could quickly share his/her experience and project at the end of the course (Friday afternoon, 28.02.20).
 
@@ -152,7 +152,7 @@ Ok, you don't like to mess around with code but still need a proper portfolio we
 
 ### Option 2: The Full Deal 
 
-You want to know the whole truth and nothing but the truth? You came to the right place! You will develop a state of the art website from scratch. You will learn how to use [Kirby CMS](https://getkirby.com/), a clean slick content management system. Kirby is made in a way that the backend is customized for your content and the system doesn't interfere with your design. Everything is possible, basically, the only limit is your willingness to learn and overcome obstacles. Once you handle this challenge you are on a great way to learn other content management systems and at some point take on developer jobs. Some websites made with Kirby:
+You want to know the whole truth and nothing but the truth? You came to the right place! You will develop a state of the art website from scratch. You will learn how to use [Kirby CMS](https://getkirby.com/), a clean slick content management system. Kirby is made in a way that the backend is customized for your content and the system doesn't interfere with your design. Everything is possible the only limit is your willingness to learn and overcome obstacles. Once you handle this challenge you are on a great way to learn other content management systems and at some point take on developer jobs. Some websites made with Kirby:
 
 - [https://mafiles.maxfrischknecht.ch/](https://mafiles.maxfrischknecht.ch/)
 - [https://debutdebut.com/](https://debutdebut.com/) (in development)
