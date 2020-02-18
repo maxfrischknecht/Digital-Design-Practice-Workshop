@@ -43,7 +43,7 @@ _08:30 – 12:00, Introduction_
 
 _13:00 – 16:30, Input Workflow I: Design_
 
-- Download and install of [Sketch](https://www.sketch.com/)
+- Download and install of [Sketch](https://www.sketch.com/), Sketch Mobile App ([iOS](https://apps.apple.com/us/app/sketch-mirror/id677296955)), ([Android](https://play.google.com/store/apps/details?id=com.smithyproductions.crystal))
 - Introduction to Sketch and the provided template
 - Rest of afternoon individual work on website (concept, content and design) 
 
