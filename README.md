@@ -183,6 +183,15 @@ You want to know the whole truth and nothing but the truth? You came to the righ
 
 # Tech Help and Support
 
+### Sketch Shortcuts
+
+- Show/Hide Layout => CTRL + L
+- Show/Hide Grid => CTRL + G
+- Show/Hide Tools => CMD + .
+
+
+### Links
+
 - [Sketch Documentation](https://www.sketch.com/docs/)
 - [Mamp Documentation](https://documentation.mamp.info/en/MAMP-Mac/)
 - [Wordpress Documentation](https://codex.wordpress.org/)
