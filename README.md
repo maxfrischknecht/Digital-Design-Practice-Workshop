@@ -52,41 +52,44 @@ _13:00 – 16:30, Input Workflow I: Design_
 _08:30 – 16:30, Individual Work and Coaching_
 
 - Individual work on the website (concept, content, and design) 
+- Short input on how we proceed (1 pm / 13:00 Uhr)
 - Individual coaching as needed (afternoon)
 - Each student chooses one website development option 
 
 ### Thursday, 20.02.20
 
-_08:30 – 12:00 Input Workflow II: Local Development_
+_08:30 – 12:00 Input: Local Development & Introduction to Wordpress_
+
+Everyone, also those students who want to work with Kirby, should attend the introduction to the local development workflow.
 
 - Install a web server ([Mamp](https://www.mamp.info/en/)) locally for development
 - Install a code editor (I prefer [Visual Studio Code](https://code.visualstudio.com/), but [Sublime](https://www.sublimetext.com/3) is also a good alternative)
-- Quick refresh on [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
-
-_13:00 – 16:30, Input Option I: Wordpress + Laytheme_
-
 - Download [Wordpress](https://wordpress.org/download/)
 - Create a [MySQL](https://en.wikipedia.org/wiki/MySQL) Database with [Mamp](http://localhost:8888/MAMP/) (under Tools => phpMyAdmin, click «new»)
 - Install Wordpress
 - Install [Laytheme](https://laytheme.com/)
 - Introduction to Wordpress and Laytheme
+- If needed quick refresh on [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-(Everyone who decided to work with Kirby has time for individual work during the afternoon)
+_13:00 – 16:30, Input: Kirby CMS_
+
+Everyone who decided to work with Wordpress: feel free to join the afternoon or take time for individual work.
+
+- Download [Kirby](https://getkirby.com/) (please select the «PlainKit» download)
+- Place and unzip Kirby into your MAMP folder for development
+- Access the backend under `/panel` and finish the installation
+- Open the complete Kirby folder with your code editor of choice and enable [debugging mode](https://getkirby.com/docs/cookbook/setup/debugging-basics#turn-on-debugging)
+- How to display content (Text, Images)
+- How to add new pages
+- How to build a navigation
+- Introduction to [Bootstrap](https://getbootstrap.com/)
 
 ### Friday, 21.02.20
 
-_08:30 – 12:00 Input Option II: Kirby CMS_
+_08:30 – 16:30 Free Work + Kirby_
 
-- Download and install [Kirby](https://getkirby.com/)
-- Introduction to Kirby, rendering your first content
-
-_13:00 – 16:30, Input Option II: Bootstrap Framework_
-
-- Introduction to [Bootstrap](https://getbootstrap.com/) (1h)
-- Rest of afternoon individual coaching and support
-
-(Everyone who decided to work with Wordpress has time for individual work during the day)
-
+- Kirby CMS part II
+- Free work
 
 ## Week 2
 
@@ -96,6 +99,8 @@ _08:30 – 16:30, Individual Work and Coaching_
 
 - Contextual Input 1: The Designer in the Digital World (08:30-09:00)
 - Individual Work and Coaching/Support
+
+_16:30, Lecture Max @ Studiokino_
 
 ### Wednesday, 26.02.20
 
