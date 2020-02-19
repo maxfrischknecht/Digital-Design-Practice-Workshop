@@ -128,9 +128,9 @@ _08:30 – 12:00, Individual Work and Coaching_
 
 - Individual Work and Coaching/Support
 
-_13:00 – 16:30, Presentation of the Projects_
+_13:00 – 16:30, Final Meet-Up_
 
-- Each student shortly presents his work (10-15 min)
+- Informal Meet-Up where everybody brings his/her website on the laptop and we chat & discuss our works
 
 ---
 
