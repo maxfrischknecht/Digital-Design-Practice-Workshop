@@ -1,0 +1,51 @@
+title: Project Entry
+
+status:
+  draft: Draft
+  listed: Published
+
+columns:
+  - width: 1/2
+    sections: 
+      text:
+        type: fields
+        fields:
+          text:
+            label: Text
+            type: textarea
+            size: large
+
+  - width: 1/2
+    sections:
+      images:
+        headline: Images
+        type: files
+        sortable: true
+        template: images
+      videos:
+        headline: My Videos
+        type: files
+        sortable: true
+        template: videos
+      meta:
+        type: fields
+        fields:
+          videourl:
+            label: Video Url
+            type: url 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
