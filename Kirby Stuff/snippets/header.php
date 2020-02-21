@@ -5,10 +5,10 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="referrer" content="origin-when-cross-origin" />
-	
-	<title>You Title</title>
-	<meta name="description" content="Bla">
-	<meta name="author" content="Bla">
+  
+  <title>You Title</title>
+  <meta name="description" content="Bla">
+  <meta name="author" content="Bla">
 
 <!--   <link rel="shortcut icon" href="/favicon-96x96.png" type="image/x-icon">
   <link rel="icon" href="/favicon-96x96.png" type="image/x-icon"> -->
@@ -28,12 +28,12 @@
   <meta name="twitter:description" content="Début Début is a design studio founded by Max Frischknecht & Philipp Möckli. We are based in Basel, Switzerland.">
   <meta name="twitter:image" content="https://debutdebut.com/assets/graph.png"> -->
 
-
-	<!-- Normalize & Bootstrap -->
-	<link rel="stylesheet" type="text/css" href="assets/css/normalize.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap-grid.min.css">
-
-	<!-- Master Css -->
-  <link rel="stylesheet" type="text/css" href="assets/css/master.css">
-
+  <!-- Normalize & Bootstrap -->
+  <link rel="stylesheet" type="text/css" href="http://localhost:8888/plainkit-master/assets/css/normalize.css">
+  <link rel="stylesheet" type="text/css" href="http://localhost:8888/plainkit-master/assets/css/bootstrap-grid.min.css">
+  <!-- Master Css -->
+  <link rel="stylesheet" type="text/css" href="http://localhost:8888/plainkit-master/assets/css/master.css">
 </head>
+<body>
+
+
