@@ -97,7 +97,6 @@ _08:30 – 16:30 Free Work + Kirby_
 
 _08:30 – 16:30, Individual Work and Coaching_
 
-- Contextual Input 1: The Designer in the Digital World (08:30-09:00)
 - Individual Work and Coaching/Support
 
 _16:30, Lecture Max @ Studiokino_
@@ -106,7 +105,7 @@ _16:30, Lecture Max @ Studiokino_
 
 _08:30 – 16:30, Individual Work and Coaching_
 
-- Contextual Input 2: Privacy (08:30-09:00)
+- Contextual Input 1: The Designer in the Digital World (08:30-09:00)
 - Individual Work and Coaching/Support
 
 ### Thursday, 27.02.20

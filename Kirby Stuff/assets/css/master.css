@@ -4,24 +4,24 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
 @font-face {
   font-family: 'RobotoMono-Regular';
-  src:  url("http://localhost:8888/html-css-template/assets/fonts/RobotoMono-Regular.eot"), 
-        url("http://localhost:8888/html-css-template/assets/fonts/RobotoMono-Regular.eot") format("embedded-opentype"), 
-        url("http://localhost:8888/html-css-template/assets/fonts/RobotoMono-Regular.woff2") format("woff2"), 
-        url("http://localhost:8888/html-css-template/assets/fonts/RobotoMono-Regular.woff") format("woff"), 
-        url("http://localhost:8888/html-css-template/assets/fonts/RobotoMono-Regular.ttf") format("truetype"), 
-        url("http://localhost:8888/html-css-template/assets/fonts/RobotoMono-Regular.svg#RobotoMono-Regular") format("svg");
+  src:  url("http://localhost:8888/plainkit-master/assets/fonts/RobotoMono-Regular.eot"), 
+        url("http://localhost:8888/plainkit-master/assets/fonts/RobotoMono-Regular.eot") format("embedded-opentype"), 
+        url("http://localhost:8888/plainkit-master/assets/fonts/RobotoMono-Regular.woff2") format("woff2"), 
+        url("http://localhost:8888/plainkit-master/assets/fonts/RobotoMono-Regular.woff") format("woff"), 
+        url("http://localhost:8888/plainkit-master/assets/fonts/RobotoMono-Regular.ttf") format("truetype"), 
+        url("http://localhost:8888/plainkit-master/assets/fonts/RobotoMono-Regular.svg#RobotoMono-Regular") format("svg");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'RobotoMono-Bold';
-  src:  url("http://localhost:8888/html-css-template/assets/fonts/RobotoMono-Bold.eot"), 
-        url("http://localhost:8888/html-css-template/assets/fonts/RobotoMono-Bold.eot") format("embedded-opentype"), 
-        url("http://localhost:8888/html-css-template/assets/fonts/RobotoMono-Bold.woff2") format("woff2"), 
-        url("http://localhost:8888/html-css-template/assets/fonts/RobotoMono-Bold.woff") format("woff"), 
-        url("http://localhost:8888/html-css-template/assets/fonts/RobotoMono-Bold.ttf") format("truetype"), 
-        url("http://localhost:8888/html-css-template/assets/fonts/RobotoMono-Bold.svg#RobotoMono-Bold") format("svg");
+  src:  url("http://localhost:8888/plainkit-master/assets/fonts/RobotoMono-Bold.eot"), 
+        url("http://localhost:8888/plainkit-master/assets/fonts/RobotoMono-Bold.eot") format("embedded-opentype"), 
+        url("http://localhost:8888/plainkit-master/assets/fonts/RobotoMono-Bold.woff2") format("woff2"), 
+        url("http://localhost:8888/plainkit-master/assets/fonts/RobotoMono-Bold.woff") format("woff"), 
+        url("http://localhost:8888/plainkit-master/assets/fonts/RobotoMono-Bold.ttf") format("truetype"), 
+        url("http://localhost:8888/plainkit-master/assets/fonts/RobotoMono-Bold.svg#RobotoMono-Bold") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -52,10 +52,6 @@ body, h1, h2, h3, h4, h5, h6, p, li {
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
-.red-title {
-  color: red;
-}
-
 .mono-bold {
   font-family: "RobotoMono-Bold", serif;
   font-weight: 400;
