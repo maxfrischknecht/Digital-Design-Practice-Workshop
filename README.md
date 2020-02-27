@@ -105,7 +105,7 @@ _16:30, Lecture Max @ Studiokino_
 
 _08:30 – 16:30, Individual Work and Coaching_
 
-- Contextual Input 1: The Designer in the Digital World (08:30-09:00)
+- Input 1: Privacy (08:30-09:00)
 - Individual Work and Coaching/Support
 
 ### Thursday, 27.02.20
@@ -187,6 +187,10 @@ You want to know the whole truth and nothing but the truth? You came to the righ
 
 # Tech Help and Support
 
+### Wordpress
+
+When you finaly developed your site and want to move it to your server, here is [video tutorial](https://laytheme.com/documentation.html#moving-website) on how to do this
+
 ### Sketch Shortcuts
 
 - Show/Hide Layout => CTRL + L
@@ -209,28 +213,7 @@ You want to know the whole truth and nothing but the truth? You came to the righ
 
 --- 
 
-# Contextual Knowledge Resources
-
-### Ideology
-
-- Barbrook, Richard, and Andy Cameron. “The Californian Ideology.” Science as Culture 6, no. 1 (January 1996): 44–72. [Link](https://www.metamute.org/editorial/articles/californian-ideology)
-- Lovink, Geert. “On the Social Media Ideology.” E-Flux Journal #75 (September 2016): 10. [Link](https://www.e-flux.com/journal/75/67166/on-the-social-media-ideology/)
-
-### Design
-
-- Maldonado, Tomás, and Gui Bonsiepe. Digitale Welt und Gestaltung. Schriften zur Gestaltung. Basel: Birkhäuser, 2007.
-- Nake, Frieder. “PARAGRAPHS ON COMPUTER ART, PAST AND PRESENT,” 9, 2010.
-- Tomas Garcia, Ferrari. “Design Futures: The Role of Design in a Software Society.” In Unfrozen - a Design Research Reader by the Swiss Design Network. Zürich: Triest, 2018.
-- Reas, Casey, and Chandler McWilliams. Form+code in Design, Art, and Architecture. 1st ed. Design Briefs. New York: Princeton Architectural Press, 2010.
-
-### Economy
-
-- Mason, Paul. Postkapitalismus: Grundrisse einer kommenden Ökonomie. Translated by Stephan Gebauer. 1. Auflage. suhrkamp taschenbuch 4845. Berlin: Suhrkamp, 2018.
-
-### Ecology
-
-- Hao, Karen. “Training a Single AI Model Can Emit as Much Carbon as Five Cars in Their Lifetimes.” MIT Technology Review. Accessed January 28, 2020. [https://www.technologyreview.com/s/613630/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/](https://www.technologyreview.com/s/613630/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/).
-- Kozlowicz, Joe. “8 Ways Data Center Environmental Impact Goes Beyond Emissions | Green House Data.” Accessed January 28, 2020. [https://www.greenhousedata.com/blog/data-center-environmental-impact-goes-beyond-emissions](https://www.greenhousedata.com/blog/data-center-environmental-impact-goes-beyond-emissions).
+# Input Resources
 
 ### Privacy
 
@@ -240,9 +223,10 @@ _Data Sovereignty_
 
 _Browsers_
 
-- [https://www.mozilla.org/en-US/](https://www.mozilla.org/en-US/)
-- [https://www.torproject.org/](https://www.torproject.org/)
-- [https://brave.com/](https://brave.com/)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- [Tor](https://www.torproject.org/)
+- [Brave](https://brave.com/)
+- [Cliqz](https://cliqz.com/en/)
 
 _Browser Plugins / Add-ons_
 
@@ -253,6 +237,7 @@ _Search Engines_
 
 - [https://duckduckgo.com/](https://duckduckgo.com/)
 - [https://www.startpage.com/](https://www.startpage.com/)
+- [https://www.ecosia.org/](https://www.ecosia.org/)
 
 _Messengers_
 
@@ -271,4 +256,29 @@ _Further Links_
 - [https://www.cryptoparty.in/](https://www.cryptoparty.in/)
 - [https://netzpolitik.org/](https://netzpolitik.org/)
 - [https://re-publica.com/de](https://re-publica.com/de)
+
+### Ideology
+
+- Barbrook, Richard, and Andy Cameron. “The Californian Ideology.” Science as Culture 6, no. 1 (January 1996): 44–72. [Link](https://www.metamute.org/editorial/articles/californian-ideology)
+- Lovink, Geert. “On the Social Media Ideology.” E-Flux Journal #75 (September 2016): 10. [Link](https://www.e-flux.com/journal/75/67166/on-the-social-media-ideology/)
+
+### Design
+
+- Buchanan, Richard. “Design Research and the New Learning.” Design Issues 17, no. 4 (October 2001): 3–23. [Link](https://www.ida.liu.se/~steho87/desres/buchanan.pdf)
+- Maldonado, Tomás, and Gui Bonsiepe. Digitale Welt und Gestaltung. Schriften zur Gestaltung. Basel: Birkhäuser, 2007.
+- Nake, Frieder. “PARAGRAPHS ON COMPUTER ART, PAST AND PRESENT,” 9, 2010.
+- Tomas Garcia, Ferrari. “Design Futures: The Role of Design in a Software Society.” In Unfrozen - a Design Research Reader by the Swiss Design Network. Zürich: Triest, 2018.
+- Reas, Casey, and Chandler McWilliams. Form+code in Design, Art, and Architecture. 1st ed. Design Briefs. New York: Princeton Architectural Press, 2010.
+- [The Fourth Revolution](https://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond/)
+
+### Economy
+
+- Mason, Paul. Postkapitalismus: Grundrisse einer kommenden Ökonomie. Translated by Stephan Gebauer. 1. Auflage. suhrkamp taschenbuch 4845. Berlin: Suhrkamp, 2018.
+
+### Ecology
+
+- Hao, Karen. “Training a Single AI Model Can Emit as Much Carbon as Five Cars in Their Lifetimes.” MIT Technology Review. Accessed January 28, 2020. [https://www.technologyreview.com/s/613630/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/](https://www.technologyreview.com/s/613630/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/).
+- Kozlowicz, Joe. “8 Ways Data Center Environmental Impact Goes Beyond Emissions | Green House Data.” Accessed January 28, 2020. [https://www.greenhousedata.com/blog/data-center-environmental-impact-goes-beyond-emissions](https://www.greenhousedata.com/blog/data-center-environmental-impact-goes-beyond-emissions).
+
+
 
