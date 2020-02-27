@@ -187,9 +187,11 @@ You want to know the whole truth and nothing but the truth? You came to the righ
 
 # Tech Help and Support
 
-### Wordpress
+### Go Live
 
-When you finaly developed your site and want to move it to your server, here is [video tutorial](https://laytheme.com/documentation.html#moving-website) on how to do this
+- [Filezilla](https://filezilla-project.org/)
+- [Cyberduck](https://cyberduck.io/)
+- Wordpress/Laytheme [video tutorial](https://laytheme.com/documentation.html#moving-website)
 
 ### Sketch Shortcuts
 
